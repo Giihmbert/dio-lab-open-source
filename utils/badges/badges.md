@@ -445,6 +445,14 @@
         <code>![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</code>
       </td>
     </tr>
+     <tr>
+      <td>
+        <img align="center" alt="React" src="https://img.shields.io/badge/jQuery-20232A?style=for-the-badge&logo=jQuery&logoColor=61DAFB">
+      </td>
+      <td>
+        <code>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</code>
+      </td>
+    </tr>
     <tr>
       <td>
         <img align="center" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
